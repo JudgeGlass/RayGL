@@ -14,9 +14,6 @@ public class Main {
 		Renderer.entities.add(player);
 		
 		
-		
-		
-		
 		renderer.startLoop();
 	}
 }
